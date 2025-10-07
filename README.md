@@ -1,4 +1,4 @@
-# Codecademy exercise Kelvin Weather
+# Codecademy Exercise - Kelvin Weather
 Full Stack Engineering practice project from Codecademy.
 I was supposed to assign numerical values and mathematical expressions to variables in order to do temperature convertions between most known scientific scales.
 
